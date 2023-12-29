@@ -2,4 +2,6 @@
 
 Updated 1!
 
+product-star-example UPDATED
+
 Git Examples
